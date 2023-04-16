@@ -10,3 +10,12 @@
  * 2. inside provider access childress props and then use the props
  *
  */
+
+/**
+ * 1. break down the create user function
+ * 2. auth provider will have auth and pass email and password from register
+ */
+
+/**
+ * 1. Private Rout
+ */
